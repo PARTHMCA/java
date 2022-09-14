@@ -1,0 +1,9 @@
+public class charsecrch{
+    public static void main(String tops[]){
+        for(int i = 1 ; i <=6 ; i++){
+            for(int j = 0 ; j < i ; j++){
+                System.out.print(j + "#");
+            }System.out.println();
+        }
+    }
+}
